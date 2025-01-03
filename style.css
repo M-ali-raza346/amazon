@@ -135,8 +135,10 @@ span{
     width: 80%;
     margin-bottom:25px ;
 }
+
 .hero-mess a{
     color: #007185;
+    text-decoration: none;
 }
 /* shop-section ki designing */
 .box{
@@ -185,6 +187,7 @@ span{
 }
 .foot-panel1 a{
     color: aliceblue;
+    text-decoration: none;
     
 }
 .foot-panel2{
